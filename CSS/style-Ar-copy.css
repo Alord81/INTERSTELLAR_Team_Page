@@ -280,7 +280,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
     border-radius: 50%;
     position: absolute;
     top: 50%;
-    right: 35%;
+    left: 35%;
     transform: translate(-65%, -50%);
 }
 @media (max-width : 1800px) {
