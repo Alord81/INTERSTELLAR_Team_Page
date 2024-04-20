@@ -1,0 +1,47 @@
+{
+    "navBar" : {
+        "about_us": "about us",
+        "our_visions_goals": "our visions & Goals",
+        "contact_us": "contact as"
+    },
+    "first_section" : {
+        "text-title-first-part" : "We are ",
+        "text_content" : "At the pinnacle of where technology intersects with environment, you'll find us. We stand as the premier destination for innovative green energy solutions, seamlessly integrating state-of-the-art technology with expertise in engineering, programming, science, and design.",
+        "explore_more": "...explore more"
+    },
+    "about_section" : {
+        "text-title-first-part" : "who we",
+        "text-title-second-part" : "are",
+        "the-paragraph" : "Welcome to Interstellar, a dynamic student-led venture dedicated to pioneering sustainability through technology and innovation. At Interstellar, we specialize in harnessing the power of natural and green energy while leveraging cutting-edge advancements in engineering, programming, science, and design. Our team is committed to creating impactful solutions that address the pressing environmental challenges of our time revolutionize the way we approach energy and build a brighter, greener future for generations to come.",
+        "staff_part" : "staff",
+        "competition" : "competition"
+    },
+    "our_visions_and_goals": {
+        "text-title-first-part" : "our",
+        "text-title-second-part" : "visions",
+        "text-title-third-part" : "&",
+        "text-title-fourth-part" : "Goals",
+        "the-paragraph" : 
+        "At our company, we are driven by a relentless pursuit of excellence and innovation. With a vision to shape a brighter, more sustainable future, we are dedicated to delivering distinctive and forward-thinking solutions that not only benefit society but also safeguard our environment. Our mission echoes the values of sustainability and progress, as we endeavor to catalyze a positive transformation towards a better world for all.",
+        "vision" : "Visions",
+        "goals" : "Goals",
+        "the-paragraph-visions" : "Our company's vision is rooted in the pursuit of enhanced sustainability through the integration of cutting-edge technology and innovative practices. We are dedicated to maximizing the utilization of natural and green energy, while continuously striving to unearth inventive solutions to address global environmental challenges. Our ultimate aim is to forge a brighter future that harmonizes seamlessly with nature, ensuring a legacy of prosperity for generations to come.",
+        "the-paragraph-goal" : "At Interstellar, our mission is multifaceted: We endeavor to pioneer innovative green energy solutions, spearhead the development of sustainable energy technologies, raise awareness about environmental conservation, and advocate for the significance of preserving our planet's natural resources. By doing so, we aspire to play a pivotal role in constructing a greener future—one that optimizes energy usage while upholding sustainability principles."     
+    },
+    "contact_us": {
+        "text-title-first-part" : "contact",
+        "text-title-second-part" : "us",
+        "the-paragraph" : "Whether you're seeking more information or have inquiries, we're all ears. Simply complete the form below, shoot us your message, and we'll get back to you promptly. We're eagerly anticipating your reach-out.",
+        "user_name_placeholder" : "Your Name",
+        "user_phone_number_placeholder" : "Your Phone Number",
+        "user_email_placeholder" : "Your Email",
+        "user_messeage_placeholder" : "What do you want to tell us?",
+        "send_btn": "Send",
+        "errors" :
+        {
+            "empty_field" : "You haven't entered anything yet.",
+            "wrong_email":"This is not a valid email address! Please edit it",
+            "wrong_phone_number":"You entered an incorrect phone number! Please correct it."
+        }
+    } 
+}
