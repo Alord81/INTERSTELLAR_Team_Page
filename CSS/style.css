@@ -278,7 +278,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
 /*-- Intro Section --*/
 /* About Section */
 .about-section {
-    margin-top: 122px;
+    margin-top: 112px;
     background-color: var(--main-background-color);
     color: var(--font-color-paragraph);
 }

@@ -280,14 +280,14 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
     border-radius: 50%;
     position: absolute;
     top: 50%;
-    left: 35%;
+    right: 35%;
     transform: translate(-65%, -50%);
 }
 @media (max-width : 1800px) {
     .intro-sec .image img {
         top: 50%;
-        left: 55%;
-        transform: translate(-45%, -50%);
+        left: 40%;
+        transform: translate(-60%, -50%);
     }
 }
 @media (max-width : 992px) {
@@ -301,7 +301,7 @@ nav.navbar.navbar-expand-lg.bg-body-tertiary {
 /*-- Intro Section --*/
 /* About Section */
 .about-section {
-    margin-top: 122px;
+    margin-top: 112px;
     background-color: var(--main-background-color);
     color: var(--font-color-paragraph);
 }
